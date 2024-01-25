@@ -1,3 +1,5 @@
+![Walmart-Logo](https://github.com/ali-obaid1994/Walmart_Sales_Analysis/assets/148888861/dee6c3ed-9b80-40ef-bcb9-e0bb744fa8c0)
+
 # Walmart_Sales_Data_Analysis
 
 ## About
