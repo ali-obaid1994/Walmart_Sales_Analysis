@@ -15,7 +15,7 @@ The major aim of this project is to gain insight into the sales data of Walmart 
 
 ## About Data
 
-The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:-
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
@@ -40,16 +40,13 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 ### Analysis List
 
 1. Product Analysis
-
-> Conduct analysis on the data to understand the different product lines, the products lines performing well and need to be improved.
+Conduct analysis on the data to understand the different product lines, the products lines performing well and need to be improved.
 
 2. Sales Analysis
-
-> This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
+This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
 
 3. Customer Analysis
-
-> This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
 ## Approach Used
 
