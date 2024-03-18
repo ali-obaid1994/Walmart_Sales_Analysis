@@ -62,7 +62,7 @@ ALTER TABLE sales ADD COLUMN month_name VARCHAR(10);
 UPDATE sales SET month_name = MONTHNAME(date);
 
 -----------------------------------------------------------------------
-------------------------------- Generic ------------------------------
+------------------------------- Generic -------------------------------
 -----------------------------------------------------------------------
 #1. How many unique cities does the data have?
 SELECT DISTINCT city FROM sales;
